@@ -1,0 +1,23 @@
+# Environment variables & Secrets
+.env
+backend/.env
+backend/serviceAccountKey.json
+firebase.json
+
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Node & React
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
